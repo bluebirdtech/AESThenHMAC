@@ -7,7 +7,7 @@
     <ProjectGuid>{1356704B-D177-44AF-BDCB-3A23FF8DD775}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AESThenHMAC</RootNamespace>
+    <RootNamespace>JTuley.Encryption</RootNamespace>
     <AssemblyName>AESThenHMAC</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

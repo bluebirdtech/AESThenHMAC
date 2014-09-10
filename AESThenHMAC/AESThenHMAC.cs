@@ -10,7 +10,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace AESThenHMAC
+namespace JTuley.Encryption
 {
     public static class AESThenHMAC
     {
