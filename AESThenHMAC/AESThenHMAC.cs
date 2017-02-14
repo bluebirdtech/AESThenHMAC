@@ -23,7 +23,7 @@ namespace JTuley.Encryption
         //Preconfigured Password Key Derivation Parameters
         public static readonly int SaltBitSize = 64;
         public static readonly int Iterations = 10000;
-        public static readonly int MinPasswordLength = 12;
+        public static readonly int MinPasswordLength = 4;
 
         /// <summary>
         /// Helper that generates a random key on each call.
